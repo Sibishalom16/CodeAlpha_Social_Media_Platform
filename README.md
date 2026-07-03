@@ -6,6 +6,21 @@ This project was developed as part of the **CODTECH Full Stack Development Inter
 
 ---
 
+# 🌐 Live Demo
+
+## 🚀 Frontend
+
+**Netlify:**  
+https://your-netlify-app.netlify.app
+
+## ⚙️ Backend API
+
+**Render:**  
+https://codealpha-social-media-platform-2-0pjy.onrender.com
+
+---
+
+
 ## 🚀 Features
 
 ### 🔐 Authentication
