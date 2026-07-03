@@ -156,3 +156,4 @@ export default function PostCard({ post, onRefresh }) {
         </div>
     );
 }
+
